@@ -1,0 +1,40 @@
+<mxfile host="Electron" modified="2024-03-17T17:07:43.232Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.0.4 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="piFZFfs42j8xbmA9DCLk" version="24.0.4" type="device">
+  <diagram name="Página-1" id="Nb8eBO-7fuOjouRAC0t5">
+    <mxGraphModel dx="1300" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yrMBSje_jSCGfZvXyrM8-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#000000;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="210" y="30" width="1150" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="yrMBSje_jSCGfZvXyrM8-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="yrMBSje_jSCGfZvXyrM8-1" target="yrMBSje_jSCGfZvXyrM8-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yrMBSje_jSCGfZvXyrM8-1" value="Create/Update/Delete Product" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yrMBSje_jSCGfZvXyrM8-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;fontColor=#333333;strokeColor=#000000;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="420" y="60" width="700" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="yrMBSje_jSCGfZvXyrM8-11" value="Amazon VPC" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.vpc;" vertex="1" parent="1">
+          <mxGeometry x="210" y="30" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yrMBSje_jSCGfZvXyrM8-12" value="Amazon ECS" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.ecs;" vertex="1" parent="1">
+          <mxGeometry x="420" y="60" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yrMBSje_jSCGfZvXyrM8-13" value="AWS Fargate" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.fargate;" vertex="1" parent="1">
+          <mxGeometry x="420" y="440" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yrMBSje_jSCGfZvXyrM8-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yrMBSje_jSCGfZvXyrM8-14" target="yrMBSje_jSCGfZvXyrM8-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yrMBSje_jSCGfZvXyrM8-14" value="Application Load Balancer" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.application_load_balancer;" vertex="1" parent="1">
+          <mxGeometry x="270" y="245" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yrMBSje_jSCGfZvXyrM8-23" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;ClusterStack&lt;/pre&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
